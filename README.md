@@ -17,3 +17,5 @@ C++
 
 개발툴
 Tizen IDE
+
+Youtube : https://www.youtube.com/watch?v=bfj9ikYTxpk
