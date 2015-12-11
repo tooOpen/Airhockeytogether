@@ -1,20 +1,19 @@
-ÀÛÇ°¸í
-Air hockey together
+# Air hockey together
 
-°³¹ßÀÎ¿ø
-1 ¸í
-º»ÀÎ¿ªÇÒ
-°³¹ß, ±âÈ¹, ¼³°è
+ê°œë°œì¸ì›
+1 ëª…
+ë³¸ì¸ì—­í• 
+ê°œë°œ, ê¸°íš, ì„¤ê³„
 
-°³¹ß±â°£
+ê°œë°œê¸°ê°„
 2014.09
 ~ 2014.10
 
-°³¹ßÈ¯°æ
+ê°œë°œí™˜ê²½
 Tizen,cocos2d-x
 
-°³¹ß¾ð¾î
+ê°œë°œì–¸ì–´
 C++
 
-°³¹ßÅø
+ê°œë°œíˆ´
 Tizen IDE
